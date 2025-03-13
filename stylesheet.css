@@ -1,0 +1,135 @@
+ 
+ *{
+margin: 0%;
+padding: 0%;
+ overflow-x: hidden; 
+
+ }
+ 
+ .nav {
+    background-color: black;
+   height: 200px;
+   display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+   flex-direction: row;
+   background-color: black;
+   padding-right: 300px;
+}
+
+
+
+.button{
+    
+margin: 60px;
+   padding: 10px;
+   
+}
+.nav-img{
+width: 400px;
+padding: 30px; 
+margin:10px;
+}
+
+.container{
+ 
+   width: 300px;
+  color: aliceblue;
+    background-color: rgb(4, 4, 4);
+    float: right;
+    position: absolute;
+    top: 100%;
+   
+    right: 30%;
+    transform: translate(-50%, -50%);
+    padding-right: 300px;
+   
+    font-family: "Roboto", sans-serif;
+
+}
+.instant{
+    margin:15px;
+    padding:10px;
+    float:right;
+}
+ .para{
+    padding: 30px;
+    text-align: start;
+}
+.head{
+    padding: 30px;
+    text-align: start;
+} 
+
+
+.grid-container{
+ 
+display: grid;
+grid-template-columns: auto auto auto  ;
+
+text-align: center;
+justify-content: center;
+border: 1px solid red;
+gap: 5px;
+
+
+}
+.card{
+
+    text-align: center;
+    padding:50px;
+    color: rgb(244, 225, 225);
+    background-color: rgb(121, 97, 97);
+    border:5px solid rgb(3, 26, 49);
+    margin: 20px;
+    gap: 5px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
